@@ -1,0 +1,23 @@
+Category;Nylon;Polyester;Viscos;Cotton;Flax
+Climate Change;;;;;
+Climate change, incl biogenic carbon;8,643;4,398;3,326;4,756;1,464
+Ecosystem;;;;;
+Freshwater aquatic ecotoxicity;0,032;0,143;0,149;0,468;0,078
+Marine aquatic ecotoxicity;0,044;0,191;0,202;0,382;0,090
+Terrestrial ecotoxicity;2,033;16,182;19,499;16,216;6,223
+Freshwater Eutrophication;0,000;0,001;0,001;0,004;0,000
+Marine Eutrophication;0,003;0,000;0,000;0,043;0,005
+Terrestrial Acidification;0,024;0,012;0,025;0,059;0,021
+Photochemical Ozone Formation, Ecosystems;0,016;0,012;0,009;0,019;0,007
+Human health;;;;;
+lonizing Radiation;0,002;0,221;0,212;0,066;0,030
+Human toxicity, cancer;0,163;0,218;0,174;0,205;0,073
+Human toxicity, non-cancer;0,537;3,157;3,822;8,345;-2,115
+Fine Particulate Matter Formation;0,008;0,006;0,010;0,012;0,005
+Photochemical Ozone Formation, Human Health;0,015;0,010;0,009;0,019;0,007
+Stratospheric Ozone Depletion;0,000;0,000;0,000;0,000;0,000
+Resources;;;;;
+Land use;0,005;0,058;0,990;5,806;0,374
+Fossil depletion;2,693;1,915;0,798;0,776;0,266
+Metal depletion;0,004;0,038;0,703;0,051;0,018
+Freshwater Consumption;0,227;0,047;0,064;4,435;0,498
