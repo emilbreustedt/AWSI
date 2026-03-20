@@ -1,0 +1,37 @@
+Category,Initial,Targeted,Incentive,Normal,Unit
+"Climate change, incl biogenic carbon
+in kg CO2-Eq.",253733.28,251091.295,232872.83500000002,251091.32499999998,kg CO2-Eq.
+"Freshwater aquatic ecotoxicity
+in kg 1.4 DCB eq.",13889.518,13751.614000000001,12859.240999999998,13750.292,kg 1.4 DCB eq.
+"Marine aquatic ecotoxicity
+in kg 1.4 DCB eq.",18070.865999999998,17891.43,16726.441,17889.510000000002,kg 1.4 DCB eq.
+"Terrestrial ecotoxicity
+in kg 1.4 DCB eq.",1019839.0259999998,1009505.052,937694.946,1009264.529,kg 1.4 DCB eq.
+"Freshwater Eutrophication
+in kg P eq.",125.703,124.46199999999999,116.57300000000001,124.45600000000002,kg P eq.
+"Marine Eutrophication
+in kg N eq.",45.699999999999996,45.195,42.057,45.232,kg N eq.
+"Terrestrial Acidification
+in kg SO2 eq.",695.405,688.095,637.726,688.135,kg SO2 eq.
+"Photochemical Ozone Formation. Ecosystems
+in kg NOx eq.",565.555,559.6189999999999,516.922,559.548,kg NOx eq.
+"lonizing Radiation
+in kBq Co-60 eq.",21460.72,21248.705,19875.776,21245.987999999998,kBq Co-60 eq.
+"Human toxicity, cancer
+in kg 1.4-DB eq",14643.975,14495.311999999998,13481.504,14493.219000000001,kg 1.4-DB eq
+"Human toxicity, non-cancer
+in kg 1.4-DB eq.",263596.399,260960.88499999998,243528.127,260927.13700000002,kg 1.4-DB eq.
+"Fine Particulate Matter Formation
+in kg PM2.5 eq.",301.254,298.103,275.829,298.075,kg PM2.5 eq.
+"Photochemical Ozone Formation. Human Health
+in kg NOx eq.",518.195,512.758,473.88899999999995,512.7040000000001,kg NOx eq.
+"Stratospheric Ozone Depletion
+in kg CFC-11 eq.",0.784,0.776,0.71,0.775,kg CFC-11 eq.
+"Land use
+in Annual crop eq.",4984.978000000001,4929.0960000000005,4564.974,4932.554999999999,Annual crop eq.
+"Fossil depletion
+in kg oil eq.",96251.619,95245.711,88053.60399999999,95233.24900000001,kg oil eq.
+"Metal depletion
+in kg Cu eq.",2748.156,2719.6800000000003,2536.614,2720.184,kg Cu eq.
+"Freshwater Consumption
+in m3",3667.4490000000005,3625.229,3347.6769999999997,3628.482,m3
